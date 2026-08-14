@@ -113,7 +113,7 @@ Sugestão de estrutura em slides, com tempo aproximado por bloco (ajustável con
 
 ### Recomendações de formato
 
-- Usar poucos slides com texto (ideal: 8 a 10 slides no total), priorizando imagens, gráficos ou dados visuais do projeto pesquisado.
+- Usar poucos slides com texto (parágrafos), priorizando imagens, gráficos ou dados visuais do projeto pesquisado.
 - Incluir ao menos uma imagem ou print do projeto (foto de atividade, protótipo, print de site institucional), sempre citando a fonte.
 - Distribuir a fala entre os integrantes do grupo, garantindo que todos participem.
 - Encerrar com uma citação da fonte consultada (referências bibliográficas em slide final).

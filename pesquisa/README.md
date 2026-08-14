@@ -24,8 +24,6 @@
 |---|---|
 | [`MODELO_roteiro_pesquisa_alunos.odt`](modelo/MODELO_roteiro_pesquisa_alunos.odt) | Formulário de trabalho do grupo, a ser preenchido durante a pesquisa e entregue junto com a apresentação |
 | [`MODELO_apresentacao_alunos.odp`](modelo/MODELO_apresentacao_alunos.odp) | Modelo de slides no template institucional do IFSC, já estruturado nos 5 blocos da seção 5 |
-| `EXEMPLO_roteiro_preenchido_arduino.odt` | Exemplo de roteiro preenchido, mostrando o nível de detalhe esperado |
-| `EXEMPLO_apresentacao_arduino_ifc_luzerna.odp` | Exemplo de apresentação montada a partir desse roteiro |
 
 ---
 ## 3. Roteiro de Fontes de Pesquisa

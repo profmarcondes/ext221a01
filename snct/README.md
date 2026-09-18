@@ -83,9 +83,10 @@ número da agência com dígito
 Informe o número de uma conta bancária em seu nome. Você deve ser o primeiro titular da conta, mesmo que ela seja conjunta. Não será efetuado o pagamento, caso a conta informada esteja em nome de terceiros.
 
 ### Tipo de conta
-Conta Corrente
-Poupança
-Variação - se houver
+ - [ ] Conta Corrente
+ - [ ] Poupança
+
+### Variação - se houver
 Exemplo: Se conta poupança da Caixa Econômica Federal, informe 013
 
 ### Poderá executar a atividade mesmo sem o apoio financeiro? Essa pergunta não interfere na avaliação das propostas.
